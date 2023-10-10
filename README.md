@@ -15,10 +15,15 @@ Conclusion: Derive conclusions and insights from the data analysis and visualiza
 In the Jupyter Notebook (Student_Marks_Analysis.ipynb), you will find step-by-step data analysis and visualization code. The notebook includes the following sections:
 
 Data Loading: Loading the student marks dataset.
+
 Data Exploration: Exploring the dataset to understand its structure and summary statistics.
+
 Data Preprocessing: Cleaning and preparing the data for analysis.
+
 Data Analysis: Analyzing the dataset to derive insights.
-/Data Visualization: Creating various types of charts (bar charts, scatter plots, histograms, etc.) to visualize the data.
+
+Data Visualization: Creating various types of charts (bar charts, heat maps, box plots, etc.) to visualize the data.
+
 Conclusion: Summarizing the findings and conclusions from the analysis.
 
 
