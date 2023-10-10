@@ -12,8 +12,6 @@ Data Visualization: Create different types of charts and visualizations to repre
 Conclusion: Derive conclusions and insights from the data analysis and visualizations.
 
 # Data Analysis and Visualization
-In the Jupyter Notebook (Student_Marks_Analysis.ipynb), you will find step-by-step data analysis and visualization code. The notebook includes the following sections:
-
 Data Loading: Loading the student marks dataset.
 
 Data Exploration: Exploring the dataset to understand its structure and summary statistics.
